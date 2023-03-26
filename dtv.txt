@@ -1,0 +1,13 @@
+# from https://kurtsthoughts.com/2021/10/02/howto-stoppaused-tv-ads-when-using-directv-genie-dvr/
+xaaf-be-live.att.com
+xandrssads-sponsored.akamaized.net
+insights-collector.newrelic.com
+dtvstb-screensaver.secure.footprint.net
+iw.dtvce.com
+callback1-stb.dtvce.com
+cmd.dtvce.com
+stb-plugin-akamai.directv.com.edgesuite.net
+bbvds.dtvbb.tv
+ums-stb.dtvce.com
+analytic.rollout.io
+itv-pxy.dtvce.com
