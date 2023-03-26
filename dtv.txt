@@ -1,13 +1,13 @@
 # from https://kurtsthoughts.com/2021/10/02/howto-stoppaused-tv-ads-when-using-directv-genie-dvr/
 0.0.0.0 xaaf-be-live.att.com
 0.0.0.0 xandrssads-sponsored.akamaized.net
-0.0.0.0 insights-collector.newrelic.com
+#0.0.0.0 insights-collector.newrelic.com
 0.0.0.0 dtvstb-screensaver.secure.footprint.net
-0.0.0.0 iw.dtvce.com
-0.0.0.0 callback1-stb.dtvce.com
-0.0.0.0 cmd.dtvce.com
-0.0.0.0 stb-plugin-akamai.directv.com.edgesuite.net
-0.0.0.0 bbvds.dtvbb.tv
-0.0.0.0 ums-stb.dtvce.com
-0.0.0.0 analytic.rollout.io
-0.0.0.0 itv-pxy.dtvce.com
+#0.0.0.0 iw.dtvce.com
+#0.0.0.0 callback1-stb.dtvce.com
+#0.0.0.0 cmd.dtvce.com
+#0.0.0.0 stb-plugin-akamai.directv.com.edgesuite.net
+#0.0.0.0 bbvds.dtvbb.tv
+#0.0.0.0 ums-stb.dtvce.com
+#0.0.0.0 analytic.rollout.io
+#0.0.0.0 itv-pxy.dtvce.com
